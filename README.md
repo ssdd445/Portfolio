@@ -9,3 +9,5 @@ Kleankars is an On-Demand Waterless Car Cleaning App which provides Customers wi
 
 ### My Role ###
 I helped develop these apps from the ground up and maintain them on a daily basis. I was a lead developer on this project and was responsible to handle, manage and upload this app on the AppStore for the client. I was challenging but very rewarding in the end. In our engineering team we had Web frontend and Web backend developers that helped maintain this on going project.
+
+We were successfully able to onboard more customers with the help of new marketing people. We added facebook marketing analytics and other analytics that helped us either improve our pain points or capitalize on our strong points that helped improve things even more.
